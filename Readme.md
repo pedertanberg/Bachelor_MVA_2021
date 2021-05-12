@@ -11,4 +11,4 @@ Steps to reproduce
 10. Gå til https://www.sheet2site.com/api/v3/index.php?key=1e1BGOR7E5GRndh5L-N-xyxQGcI9lbTqceUYtLjG09a8
 11. Her vil du se alle transaksjonene lagret i Databasen(Ark 3) på en frontend. 
 
-![image](C:\Users\Bruger Power\Desktop\hello\image.jpg)
+![image](https://github.com/pedertanberg/Bachelor_MVA_2021/blob/main/image.jpg)
